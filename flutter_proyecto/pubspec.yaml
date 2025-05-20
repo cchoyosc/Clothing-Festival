@@ -1,0 +1,36 @@
+name: flutter_proyecto
+description: "Sport clothing store"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter 
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.17.4
+  google_sign_in: ^6.1.0
+  google_maps_flutter: ^2.5.0
+  geolocator: ^10.1.0
+  http: ^1.1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+
+flutter_icons:
+android: true
+ios: true
+image_path: "assets/icons/applogo1.png"
+adaptive_icon_background: "#B74AD4"
+adaptive_icon_foreground: "assets/icons/applogo1.png"

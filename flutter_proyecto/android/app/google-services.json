@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182610002508",
+    "project_id": "clothing-festival",
+    "storage_bucket": "clothing-festival.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182610002508:android:585425278215f53bddaae9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBusXFRiiZq_2TY1L6Lm9LcVgI44N5ozhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
